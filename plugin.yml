@@ -1,0 +1,9 @@
+name: DeathSwapChallenge
+main: io.github.tkdkid1000.MainPluginClass
+version: 1.0
+api-version: 1.16
+commands:
+    startdeathswap:
+        description: Starts the death swap
+        usage: /startdeathswap player
+        permission: deathswapchallenge.start
